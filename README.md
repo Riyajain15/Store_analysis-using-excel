@@ -1,6 +1,8 @@
 # Store_analysis-using-excel
 
-hi this is riyajain this project is about analysing a store data and answering some sample question using excel and taking out some valuable insights from dataset.
+Hello,
+I'm excited to share my recent store sales data analysis project with you. If you're interested, you can take a look at the step-by-step guide I've put together to walk through the entire project process.
+**Link:** https://app.tango.us/app/workflow/Store-Analysis--Unveiling-Insights-through-Excel-a17f3c62a65b47f8a4a9adb7fbbe0f16
 
 **Objective**
 Vrinda store wants to create an annual sales report for 2022. So that, Vrinda can understand their customers and grow more sales in 2023.
